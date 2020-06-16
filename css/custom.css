@@ -1,0 +1,12 @@
+
+.logo img {
+    width: 10rem;
+}
+
+.fa-3x, .fa-1x {
+    color: #3B5797;
+}
+
+.transportation_area .single_transport {
+    padding-right: 64px;
+}
